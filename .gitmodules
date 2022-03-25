@@ -38,8 +38,3 @@
 	url = https://github.com/xoopR/R62S3
 	shallow = true
 	registered = true
-[submodule "xoop"]
-	path = xoop
-	url = https://github.com/xoopR/xoop
-	shallow = true
-	registered = true
