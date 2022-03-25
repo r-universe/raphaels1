@@ -1,5 +1,45 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/raphaels1/universe
 	shallow = true
 	branch = HEAD
+[submodule "survivalmodels"]
+	path = survivalmodels
+	url = https://github.com/RaphaelS1/survivalmodels
+	shallow = true
+	registered = true
+[submodule "param6"]
+	path = param6
+	url = https://github.com/xoopR/param6
+	shallow = true
+	registered = true
+[submodule "ooplah"]
+	path = ooplah
+	url = https://github.com/xoopR/ooplah
+	shallow = true
+	registered = true
+[submodule "set6"]
+	path = set6
+	url = https://github.com/xoopR/set6
+	shallow = true
+	registered = true
+[submodule "distr6"]
+	path = distr6
+	url = https://github.com/alan-turing-institute/distr6
+	shallow = true
+	registered = true
+[submodule "dictionar6"]
+	path = dictionar6
+	url = https://github.com/xoopR/dictionar6
+	shallow = true
+	registered = true
+[submodule "R62S3"]
+	path = R62S3
+	url = https://github.com/xoopR/R62S3
+	shallow = true
+	registered = true
+[submodule "xoop"]
+	path = xoop
+	url = https://github.com/xoopR/xoop
+	shallow = true
+	registered = true
