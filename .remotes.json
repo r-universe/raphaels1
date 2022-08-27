@@ -7,9 +7,21 @@
   },
   {
     "package": "param6",
+    "url": "https://github.com/xoopR/param6",
+    "via": ["distr6"],
+    "from": "distr6"
+  },
+  {
+    "package": "param6",
     "url": "https://github.com/RaphaelS1/param6",
     "via": ["survivalmodels"],
     "from": "survivalmodels"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
+    "via": ["distr6"],
+    "from": "distr6"
   },
   {
     "package": "set6",
