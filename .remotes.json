@@ -4,5 +4,17 @@
     "url": "https://github.com/alan-turing-institute/distr6",
     "via": ["survivalmodels"],
     "from": "survivalmodels"
+  },
+  {
+    "package": "param6",
+    "url": "https://github.com/RaphaelS1/param6",
+    "via": ["survivalmodels"],
+    "from": "survivalmodels"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/RaphaelS1/set6",
+    "via": ["survivalmodels"],
+    "from": "survivalmodels"
   }
 ]
