@@ -32,6 +32,12 @@
   {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
+    "via": ["param6"],
+    "from": "param6"
+  },
+  {
+    "package": "set6",
+    "url": "https://github.com/xoopR/set6",
     "via": ["survivalmodels", "distr6"],
     "from": "survivalmodels"
   },
