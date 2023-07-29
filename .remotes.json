@@ -32,12 +32,6 @@
   {
     "package": "set6",
     "url": "https://github.com/xoopR/set6",
-    "via": ["distr6", "param6"],
-    "from": "distr6"
-  },
-  {
-    "package": "set6",
-    "url": "https://github.com/xoopR/set6",
     "via": ["param6"],
     "from": "param6"
   },
