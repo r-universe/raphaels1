@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/raphaels1/universe
+	url = https://github.com/raphaels1/raphaels1.r-universe.dev
 	branch = HEAD
 [submodule "R62S3"]
 	path = R62S3
